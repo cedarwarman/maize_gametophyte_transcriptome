@@ -1,0 +1,2 @@
+# maize_gametophyte_transcriptome
+Supplemental methods for maize gametophyte transcriptome manuscript
