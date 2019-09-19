@@ -1,4 +1,4 @@
-# Transcriptome paper R methods
+# Maize gametophyte transcriptome R methods
 Cedar Warman, Sam Hokin, Duo Jiang
 
 ## Overview
