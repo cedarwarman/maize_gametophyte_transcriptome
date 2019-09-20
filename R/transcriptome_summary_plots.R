@@ -55,3 +55,4 @@ draw.quad.venn(area1 = 200, area2 = 200, area3 = 200, area4 = 200,
                cat.fontface = "bold",
                cat.fontfamily = "sans",
                margin = 0.24)
+
