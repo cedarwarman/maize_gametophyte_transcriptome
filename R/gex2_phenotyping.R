@@ -97,5 +97,3 @@ ggplot(area_df, aes(x = group, y = empty_area_percent, fill = group)) +
         panel.border = element_blank(),
         panel.grid = element_blank(),
         legend.position = "none")
-
-

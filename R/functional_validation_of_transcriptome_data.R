@@ -478,4 +478,3 @@ ggsave(filename = './data/plots/vc_transmission.png',
        height = 6, 
        dpi = 400,
        units = 'in')
-
